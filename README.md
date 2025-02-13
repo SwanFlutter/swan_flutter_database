@@ -19,7 +19,7 @@ dependencies:
   swan_flutter_database: ^1.0.0
 ```
 
-## Initial Configuration
+## Initial Configurations
 
 ```dart
 final config = DatabaseConfig(
